@@ -1,16 +1,19 @@
-### Hi there 👋
+chohyeonji Hi there 👋
+<p>I'm studying <code>Backend, webcrawling and Vue.js</code></p>
 
-<!--
-**chohyeonji/chohyeonji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chohyeonji)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<h3>🔭 stacks</h3>
+<ul>
+  <li>c</li>
+  <li>java</li>
+  <li>c++<li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🌱 I’m currently learning</h3>
+<ul>
+  <li>Node.js</li>
+  <li>Kotlin</li>
+ </ul>
+ 
