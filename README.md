@@ -14,5 +14,6 @@ chohyeonji Hi there 👋
 <ul>
   <li>Node.js</li>
   <li>Kotlin</li>
+  <li>MVVM</li>
  </ul>
  
