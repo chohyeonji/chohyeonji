@@ -7,6 +7,7 @@ chohyeonji Hi there 👋
   <li>c</li>
   <li>java</li>
   <li>c++</li>
+  <li>kotlin</li>
 </ul>
 
 
